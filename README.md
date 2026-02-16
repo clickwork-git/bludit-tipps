@@ -18,7 +18,9 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Installationsverzeichnis](/docs/verzeichnis.md)
 
-[Sicherheitszertifikat (SSL)](/docs/ssl.md.)
+[Sicherheitszertifikat (SSL)](/docs/ssl.md)
+
+[File Transfer (FTP und SFTP)](/docs/ftp.md)
 
 **Anpassungen**
 
