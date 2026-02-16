@@ -12,11 +12,11 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 **Installation**
 
-[Installation von Bludit]
+[Installation von Bludit](/docs/installation.md)
 
 [PHP-Version](/docs/php.md)
 
-[Installationsverzeichnis](/docs/installationsverzeichnis.md)
+[Installationsverzeichnis](/docs/verzeichnis.md)
 
 **Anpassungen**
 
