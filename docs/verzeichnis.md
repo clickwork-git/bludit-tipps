@@ -1,3 +1,5 @@
+# Installationsverzeichnis
+
 Bludit kann im Hauptverzeichnis (root) oder in einem Unterverzeichnis wie beispielsweise `/bludit` installiert werden.
 
 Je nach Hoster kann das Hauptverzeichnis oder das Vezeichnis einer Installation verschieden benannt sein und konfiguriert werden.
