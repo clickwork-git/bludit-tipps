@@ -18,6 +18,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Installationsverzeichnis](/docs/verzeichnis.md)
 
+[Sicherheitszertifikat (SSL)](/docs/ssl.md.)
+
 **Anpassungen**
 
 [Benutzer "admin" ändern](/docs/admin.md)
