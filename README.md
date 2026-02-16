@@ -1,2 +1,2 @@
 PHP-Version
-[/docs/installationsverzeichnis.md](Installationsverzeichnis)
+[Installationsverzeichnis](/docs/installationsverzeichnis.md)
