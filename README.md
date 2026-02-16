@@ -1,4 +1,4 @@
-# Was ist Bludit
+## Was ist Bludit
 
 Bludit ist ein schlankes und schnelles **Content-Management-System (CMS)**, mit dem einfach Inhalte wie Texte, Bilder usw. veröffentlicht werden können.
 
@@ -21,6 +21,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 [Sicherheitszertifikat (SSL)](/docs/ssl.md)
 
 [File Transfer (FTP und SFTP)](/docs/ftp.md)
+
+**Update und Migration**
 
 **Anpassungen**
 
