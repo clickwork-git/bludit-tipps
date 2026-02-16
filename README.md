@@ -1,6 +1,6 @@
-Was ist Bludit
+# Was ist Bludit
 
-Bludit ist ein schlankes und schnelles Content-Management-System (CMS), mit dem einfach Inhalte wie Texte, Bilder usw. veröffentlicht werden können.
+Bludit ist ein schlankes und schnelles **Content-Management-System (CMS)**, mit dem einfach Inhalte wie Texte, Bilder usw. veröffentlicht werden können.
 
 Für die Speicherung der Inhalte werden JSON-Dateien verwendet. Mit dem Plugin Remote Content können aber auch Inhalte, die sich auf einer Plattform wie GitHub befinden, veröffentlicht werden.
 
@@ -10,12 +10,14 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 <a href="https://www.bludit.com/de/" target="_blank">Bludit v3.17.2</a>
 
-*Installation*
+**Installation**
 
-[PHP](/docs/php.md)
+[Installation von Bludit]
+
+[PHP-Version](/docs/php.md)
 
 [Installationsverzeichnis](/docs/installationsverzeichnis.md)
 
-*Anpassungen*
+**Anpassungen**
 
 [Benutzer "admin" ändern](/docs/admin.md)
