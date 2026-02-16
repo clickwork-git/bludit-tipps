@@ -1,5 +1,9 @@
+*Installation*
+
 [PHP](/docs/php.md)
 
 [Installationsverzeichnis](/docs/installationsverzeichnis.md)
 
-Benutzer "admin" ändern
+*Anpassungen*
+
+[Benutzer "admin" ändern](/docs/admin.md)
