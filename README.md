@@ -30,6 +30,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Website nur mit Seiten](/docs/seiten.md)
 
+[Logo](/docs/logo.md)
+
 [Favicon](/docs/favicon.md)
 
 ## Anpassungen
