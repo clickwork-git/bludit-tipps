@@ -26,7 +26,9 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 **Einstellungen**
 
-(Website mit Blog und Seiten)
+(Website mit Blog und Seiten)[/docs/blog_seiten.md]
+
+(Website nur mit Seiten)[/docs/seiten.md]
 
 **Anpassungen**
 
