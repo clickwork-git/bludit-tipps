@@ -37,3 +37,5 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 **Drittanbieter**
 
 [Cookies](/docs/cookies.md)
+
+[Suche](/docs/suche.md)
