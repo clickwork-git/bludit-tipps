@@ -6,11 +6,11 @@ Für die Speicherung der Inhalte werden JSON-Dateien verwendet. Mit dem Plugin R
 
 Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Markdown oder mit HTML-Code beziehungsweise einem WYSIWYG-Editor. Für das Erscheinungsbild stehen verschiedene Gestaltungsvorlagen (Themes) zur Verfügung, Plugins erlauben die Erweiterung mit zusätzlichen Funktionen. Bludit ist eine kostenlose Open-Source-Anwendung und steht unter der MIT-Lizenz.
 
-<h2 id="links">Download</h2>
+**Download**
 
 <a href="https://www.bludit.com/de/" target="_blank">Bludit v3.17.2</a>
 
-**Installation**
+## Installation
 
 [Installation von Bludit](/docs/installation.md)
 
@@ -26,15 +26,15 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 **Einstellungen**
 
-(Website mit Blog und Seiten)[/docs/blog_seiten.md]
+[Website mit Blog und Seiten](/docs/blog_seiten.md)
 
-(Website nur mit Seiten)[/docs/seiten.md]
+[Website nur mit Seiten](/docs/seiten.md)
 
 **Anpassungen**
 
 [Benutzer "admin" ändern](/docs/admin.md)
 
-**Drittanbieter**
+## Drittanbieter
 
 [Cookies](/docs/cookies.md)
 
