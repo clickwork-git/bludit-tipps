@@ -22,15 +22,17 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [File Transfer (FTP und SFTP)](/docs/ftp.md)
 
-**Update und Migration**
+## Update und Migration
 
-**Einstellungen**
+## Einstellungen
 
 [Website mit Blog und Seiten](/docs/blog_seiten.md)
 
 [Website nur mit Seiten](/docs/seiten.md)
 
-**Anpassungen**
+[Favicon](/docs/favicon.md)
+
+## Anpassungen
 
 [Benutzer "admin" ändern](/docs/admin.md)
 
