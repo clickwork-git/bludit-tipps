@@ -24,6 +24,10 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 **Update und Migration**
 
+**Einstellungen**
+
+(Website mit Blog und Seiten)
+
 **Anpassungen**
 
 [Benutzer "admin" ändern](/docs/admin.md)
