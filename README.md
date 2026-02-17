@@ -33,3 +33,7 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 **Anpassungen**
 
 [Benutzer "admin" ändern](/docs/admin.md)
+
+**Drittanbieter**
+
+[Cookies](/docs/cookies.md)
