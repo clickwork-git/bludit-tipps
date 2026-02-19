@@ -28,6 +28,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Update von Bludit v2.3.4 auf v3.0](/docs/v234-v30.md)
 
+[Migration von WordPress zu Bludit](/docs/wordpress.md)
+
 ## Einstellungen
 
 [Website mit Blog und Seiten](/docs/blog_seiten.md)
