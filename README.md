@@ -46,4 +46,6 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Kontaktformular Contact3](/docs/contact3.md)
 
+[Statistik](/docs/statistik.md)
+
 [Suche](/docs/suche.md)
