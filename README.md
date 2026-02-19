@@ -24,6 +24,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 ## Update und Migration
 
+[Update von Bludit v1.6 auf v2.0](/docs/v16-v20.md)
+
 ## Einstellungen
 
 [Website mit Blog und Seiten](/docs/blog_seiten.md)
