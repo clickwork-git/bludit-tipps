@@ -48,6 +48,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Navigation](/docs/navigation.md)
 
+[Upload von PDF-, Audio- und Video-Dateien](/docs/upload.md)
+
 ## Drittanbieter
 
 [Cookies](/docs/cookies.md)
