@@ -30,6 +30,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Migration von WordPress zu Bludit](/docs/wordpress.md)
 
+[Wechsel des URL](/docs/url.md)
+
 ## Einstellungen
 
 [Website mit Blog und Seiten](/docs/blog_seiten.md)
