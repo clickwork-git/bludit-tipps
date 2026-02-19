@@ -44,6 +44,8 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 [Cookies](/docs/cookies.md)
 
+[Google-Karten](/docs/karten.md)
+
 [Kontaktformular Contact3](/docs/contact3.md)
 
 [Statistik](/docs/statistik.md)
