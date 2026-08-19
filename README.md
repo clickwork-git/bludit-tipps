@@ -10,7 +10,7 @@ Formatiert werden können die Inhalte wahlweise mit der Auszeichnungssprache Mar
 
 **Download**
 
-<a href="https://www.bludit.com/de/" target="_blank">Bludit v3.17.2</a>
+<a href="https://www.bludit.com/de/" target="_blank">Bludit v3.22.0</a>
 
 ## Installation
 
